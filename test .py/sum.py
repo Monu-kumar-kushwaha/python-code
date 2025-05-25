@@ -1,0 +1,14 @@
+a=3
+b=8
+sum=a+b
+sub=a-b
+mul=a*b
+div=a/b
+print(type(sum))
+print(sum)
+print(type(sub))
+print(sub)
+print(type(mul))
+print(mul)
+print(type(div))
+print(div)
